@@ -1,4 +1,4 @@
-# IMDB-Design-a-DB-for-IMD
+# IMDB
 
 https://github.com/Jagadeesh-Kumar-Initial-Is-S/IMDB-Design-a-DB-for-IMD
 
