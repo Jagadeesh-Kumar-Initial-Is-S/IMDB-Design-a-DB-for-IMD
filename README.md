@@ -6,7 +6,7 @@ Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email addres
 
 # Front-end Source code
 
-Front-end Source code link's is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/IMDB-Design-a-DB-for-IMD
+Front-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/IMDB-Design-a-DB-for-IMD
 
 <hr/>
 
